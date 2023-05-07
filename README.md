@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @allaithsaad
 - 👀 I’m interested in Mobile Development Technology
-- 🌱 I’m currently learning NodeJs
+- 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me [whatsapp](https://wa.link/r03clb)
+- 📫 How to reach me [whatsapp](https://wa.me/9665080354)
 
 <!---
 allaithsaad/allaithsaad is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
