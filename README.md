@@ -1,8 +1,8 @@
 <div align="center">
 
-# Allaith Al-Aqraa
+<img src="./assets/header.svg" alt="Allaith Al-Aqraa — Full-Stack Mobile and Web Engineer" width="100%" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&color=0E75B6&center=true&vCenter=true&width=620&height=45&lines=Full-Stack+Mobile+%26+Web+Engineer;Flutter+%7C+Next.js+%7C+TypeScript;Cloud+Infrastructure+%26+DevOps" alt="Full-Stack Mobile and Web Engineer — Flutter, Next.js, TypeScript, Cloud Infrastructure and DevOps" />
+<br/>
 
 <a href="https://www.linkedin.com/in/allaithalaqraa"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="mailto:work.laith@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
@@ -121,6 +121,20 @@ Relational and geospatial data modelling, plus hands-on API security review — 
 <br/><br/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=allaithsaad&hide_border=true&theme=tokyo-night&area=true" alt="Contribution activity graph" width="100%" />
+
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/allaithsaad/allaithsaad/output/snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/allaithsaad/allaithsaad/output/snake.svg" />
+  <img src="https://raw.githubusercontent.com/allaithsaad/allaithsaad/output/snake.svg" alt="Snake animation eating my contribution graph" width="100%" />
+</picture>
 
 </div>
 
