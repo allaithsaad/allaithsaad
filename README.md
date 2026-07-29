@@ -6,7 +6,7 @@
 
 <a href="https://www.linkedin.com/in/allaithalaqraa"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="mailto:work.laith@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-<a href="https://wa.me/REDACTED"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" /></a>
+<a href="https://wa.me/REDACTED?text=Hi%20Allaith%2C%20I%20found%20your%20GitHub%20profile%20and%20wanted%20to%20get%20in%20touch"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" /></a>
 <img src="https://img.shields.io/badge/Riyadh,_Saudi_Arabia-111827?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Riyadh, Saudi Arabia" />
 
 <br/><br/>
@@ -142,6 +142,8 @@ Relational and geospatial data modelling, plus hands-on API security review — 
 
 <div align="center">
 
-**Open to collaboration** — Flutter architecture, Next.js dashboards, and cloud deployment.
+**Let's build something together.**
+
+Reach me on [LinkedIn](https://www.linkedin.com/in/allaithalaqraa), by [email](mailto:work.laith@gmail.com), or on [WhatsApp](https://wa.me/REDACTED?text=Hi%20Allaith%2C%20I%20found%20your%20GitHub%20profile%20and%20wanted%20to%20get%20in%20touch).
 
 </div>
