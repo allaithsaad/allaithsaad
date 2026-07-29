@@ -1,6 +1,9 @@
 name: Generate Contribution Snake
 
 on:
+  push:
+    branches:
+      - main
   schedule:
     # Runs daily at 03:00 UTC (06:00 Riyadh)
     - cron: "0 3 * * *"
